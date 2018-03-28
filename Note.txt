@@ -1,0 +1,25 @@
+TOPIC: Authentication in IoT
+
+========================== Constrain ==========================
+Limitted resource
+- Power
+- Other resource (Memory?)
+
+========================== Scope ==========================
+1/ Specific context?
+- In traffic
+- In hospital?
+
+========================== Keywords ==========================
+- A Lightweight Authentication and Encryption Protocol for Secure Communications Between Resource-Limited Devices Without Hardware Modification:
+  Resource-Limited Device Authentication
+    + Lightweight Authentication and Encryption protocol
+    + Crytography
+    + HP plus?
+    + Authentication for Resource-Limited Device
+    + Resource-constrained Devices
+- Zero acknowledgement?
+- An Anonymous and Self-Verified Mobile Authentication
+
+========================== Considerations ==========================
+- Case of being attacked?
