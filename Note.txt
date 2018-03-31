@@ -1,7 +1,7 @@
 TOPIC: Authentication in IoT
 
 ========================== Constrain ==========================
-Limitted resource
+Limited resource
 - Power
 - Other resource (Memory?)
 
@@ -9,17 +9,32 @@ Limitted resource
 1/ Specific context?
 - In traffic
 - In hospital?
+* Protocol to authenticate which keeps privacy.
 
 ========================== Keywords ==========================
 - A Lightweight Authentication and Encryption Protocol for Secure Communications Between Resource-Limited Devices Without Hardware Modification:
   Resource-Limited Device Authentication
     + Lightweight Authentication and Encryption protocol
-    + Crytography
+    + Cryptography
+    + HW IoT sensors?
     + HP plus?
     + Authentication for Resource-Limited Device
     + Resource-constrained Devices
-- Zero acknowledgement?
-- An Anonymous and Self-Verified Mobile Authentication
+    + Keep privacy
+    + IoT
+- Zero knowledge?
+- Main Keywords: Authentication, Resource-Limited, Privacy
 
 ========================== Considerations ==========================
 - Case of being attacked?
+
+Main Keywords: Authentication, Resource-Limited, Privacy
+IoT - Authentication in IoT with privacy
+Journal ISI: authentication with resource-constrained and keep privacy
+
+From now to June: report for item 3 (from 10 to 15 pages)
+    - Review exist protocols and models.
+After June to M/Aug: to item 4 => propose model
+To Sept: to item 5
+From Oct to Nov: Submit report
+    * Focus on Journal at first.
