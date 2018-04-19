@@ -22,6 +22,7 @@ Limited resource
     + Resource-constrained Devices
     + Keep privacy
     + IoT
+    + Hashing function
 - Zero knowledge?
 - Main Keywords: Authentication, Resource-Limited, Privacy
 

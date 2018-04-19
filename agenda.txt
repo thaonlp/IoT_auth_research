@@ -22,6 +22,11 @@
 
 
 
+============================= Security Analysis: Is it secure against particular attacks? =============================
+
+
+
+============================= Performance Analysis: Compare your method with other methods =============================
 
 
 
