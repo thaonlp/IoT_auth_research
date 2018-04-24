@@ -31,8 +31,12 @@ Limited resource
 
 Main Keywords: Authentication, Resource-Limited, Privacy
 IoT - Authentication in IoT with privacy
+	Assume that there is no problem in network, all information is kept the same.
+	Privacy: people provide information to authenticate, must protect them. (info may be key, biometrics, ...)
 Journal ISI: authentication with resource-constrained and keep privacy
 
+
+========================== Schedule ==========================
 From now to June: report for item 3 (from 10 to 15 pages)
     - Review exist protocols and models.
 After June to M/Aug: to item 4 => propose model
