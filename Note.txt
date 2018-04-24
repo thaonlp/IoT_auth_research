@@ -23,8 +23,18 @@ Limited resource
     + Keep privacy
     + IoT
     + Hashing function
+    + Oauth 2.0
+    + Keep alive check + one/short time token
 - Zero knowledge?
 - Main Keywords: Authentication, Resource-Limited, Privacy
+
+========================== Schedule ==========================
+From now to June: report for item 3 (from 10 to 15 pages)
+    - Review exist protocols and models.
+After June to M/Aug: to item 4 => propose model
+To Sept: to item 5
+From Oct to Nov: Submit report
+    * Focus on Journal at first.
 
 ========================== Considerations ==========================
 - Case of being attacked?
@@ -35,11 +45,7 @@ IoT - Authentication in IoT with privacy
 	Privacy: people provide information to authenticate, must protect them. (info may be key, biometrics, ...)
 Journal ISI: authentication with resource-constrained and keep privacy
 
+- Idea from Master Khanh: n-factor authentication: similar to blockchain
+		+ 1 device will support for authentication into network -> keep alive check + one/short time token.
+		+ 1 device will have: info of security group + private/public key + group table.
 
-========================== Schedule ==========================
-From now to June: report for item 3 (from 10 to 15 pages)
-    - Review exist protocols and models.
-After June to M/Aug: to item 4 => propose model
-To Sept: to item 5
-From Oct to Nov: Submit report
-    * Focus on Journal at first.
