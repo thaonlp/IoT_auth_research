@@ -25,6 +25,7 @@ Limited resource
     + Hashing function
     + Oauth 2.0
     + Keep alive check + one/short time token
+    + Blockchain/ P2P network
 - Zero knowledge?
 - Main Keywords: Authentication, Resource-Limited, Privacy
 
@@ -49,3 +50,5 @@ Journal ISI: authentication with resource-constrained and keep privacy
 		+ 1 device will support for authentication into network -> keep alive check + one/short time token.
 		+ 1 device will have: info of security group + private/public key + group table.
 
+========================== Google Doc ==========================
+https://docs.google.com/document/d/1IFUKDcKGaIszwlfKsbp2Bj9u5iPycmRv7QKge827SSg/edit
