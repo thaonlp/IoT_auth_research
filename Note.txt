@@ -26,6 +26,7 @@ Limited resource
     + Oauth 2.0
     + Keep alive check + one/short time token
     + Blockchain/ P2P network
+    + Elliptic curve cryptography
 - Zero knowledge?
 - Main Keywords: Authentication, Resource-Limited, Privacy
 
@@ -51,4 +52,8 @@ Journal ISI: authentication with resource-constrained and keep privacy
 		+ 1 device will have: info of security group + private/public key + group table.
 
 ========================== Google Doc ==========================
+# Report for Professor
 https://docs.google.com/document/d/1IFUKDcKGaIszwlfKsbp2Bj9u5iPycmRv7QKge827SSg/edit
+
+# Keywords collection
+https://docs.google.com/spreadsheets/d/1DGYcYNqkv0UTAKCWH9UKBXhZFBGoR6P_uC8GxfjIx44/edit#gid=0
