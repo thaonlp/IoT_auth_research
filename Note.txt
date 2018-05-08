@@ -30,6 +30,10 @@ Limited resource
 - Zero knowledge?
 - Main Keywords: Authentication, Resource-Limited, Privacy
 
+========================== Tools ==========================
+- http://www.avispa-project.org/
+- http://people.irisa.fr/Thomas.Genet/span/
+
 ========================== Schedule ==========================
 From now to June: report for item 3 (from 10 to 15 pages)
     - Review exist protocols and models.

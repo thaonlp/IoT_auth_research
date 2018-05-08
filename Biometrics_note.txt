@@ -1,0 +1,5 @@
+$ git clone --recursive https://github.com/biometrics/openbr
+$ git checkout v1.1.0
+
+
+http://openbiometrics.org/docs/install/
