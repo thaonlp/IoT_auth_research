@@ -1,0 +1,10 @@
+$ git clone --recursive https://github.com/biometrics/openbr
+$ git checkout v1.1.0
+
+
+http://openbiometrics.org/docs/install/
+
+####### Idea #######
+- Combine Iris auth and Visual Crytographics
+https://github.com/LessonStudio/VisualCryptography/blob/master/visual_cryptography.py
+https://github.com/Qingbao/iris
